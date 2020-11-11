@@ -2,7 +2,17 @@
   "name": "stimulus-lightbox",
   "version": "0.1.0",
   "description": "A Stimulus controller to add a lightbox on images.",
+  "keywords": [
+    "stimulus",
+    "stimulusjs",
+    "stimulus controller",
+    "lightbox",
+    "lightgallery"
+  ],
   "repository": "git@github.com:stimulus-components/stimulus-lightbox.git",
+  "bugs": {
+    "url": "https://github.com/stimulus-components/stimulus-lightbox/issues"
+  },
   "author": "Guillaume Briday <guillaumebriday@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/stimulus-components/stimulus-lightbox",
