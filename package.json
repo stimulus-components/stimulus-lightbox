@@ -1,6 +1,6 @@
 {
   "name": "stimulus-lightbox",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Stimulus controller to add a lightbox on images.",
   "keywords": [
     "stimulus",
