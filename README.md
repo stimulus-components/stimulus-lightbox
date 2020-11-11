@@ -4,7 +4,7 @@
 [![](https://img.shields.io/npm/v/stimulus-lightbox.svg)](https://www.npmjs.com/package/stimulus-lightbox)
 [![](https://github.com/stimulus-components/stimulus-lightbox/workflows/Lint/badge.svg)](https://github.com/stimulus-components/stimulus-lightbox)
 [![](https://img.shields.io/github/license/stimulus-components/stimulus-lightbox.svg)](https://github.com/stimulus-components/stimulus-lightbox)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cbec1815-8e5b-4f45-8cb2-44d24e8c9cf5/deploy-status)](https://stimulus-lightbox.netlify.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6137aa0-bbbc-401d-81cc-4677a91fe581/deploy-status)](https://stimulus-lightbox.netlify.com)
 
 ## Getting started
 
