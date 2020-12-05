@@ -13,6 +13,10 @@ export default class extends Controller {
     })
   }
 
+  get lightGallery () {
+    return window.lgData[this.element.getAttribute('lg-uid')]
+  }
+
   get defaultOptions () {
     return {}
   }
