@@ -6,6 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.0] - 2021-12-27
+
+### Chore
+
+- **Breaking** Upgrading Stimulus to 3.x and change namespace from `stimulus` to `@hotwired/stimulus`.
+- **Breaking** Upgrading from `lightgallery.js` (v1) to `lightgallery` (v2).
+- Moving from `Snowpack` to `Vite`.
+- Using stimulus as external library reducing bundle size from `18.44KiB` to `0.46kb`.
+- Moving to TypeScript
+- Upgrading dependencies
+- Upgrading Node to `16.13.1`.
+
 ## [2.0.0] - 2020-12-05
 
 ### Added
