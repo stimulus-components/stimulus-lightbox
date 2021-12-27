@@ -4,14 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="description" content="A Stimulus controller to add a lightbox on images." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="https://unpkg.com/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" rel="stylesheet" />
     <link href="https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css" rel="stylesheet" />
 
     <title>Stimulus Lightbox</title>
 
     <script type="module" defer>
-      import { Application } from 'stimulus'
-      import Lightbox from './src/index.js'
+      import { Application } from '@hotwired/stimulus'
+      import Lightbox from './src/index'
+      import 'lightgallery/css/lightgallery.css'
 
       const application = Application.start()
       application.register('lightbox', Lightbox)

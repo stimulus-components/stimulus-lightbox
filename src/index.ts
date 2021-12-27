@@ -1,23 +1,23 @@
-import { Controller } from 'stimulus'
-import 'lightgallery.js'
+import { Controller } from '@hotwired/stimulus'
+import lightGallery from 'lightgallery'
 
 export default class extends Controller {
+  // @ts-ignore
+  element: HTMLElement
+  optionsValue: object
+
   static values = {
     options: Object
   }
 
-  connect () {
+  connect (): void {
     lightGallery(this.element, {
       ...this.defaultOptions,
       ...this.optionsValue
     })
   }
 
-  get lightGallery () {
-    return window.lgData[this.element.getAttribute('lg-uid')]
-  }
-
-  get defaultOptions () {
+  get defaultOptions (): object {
     return {}
   }
 }
