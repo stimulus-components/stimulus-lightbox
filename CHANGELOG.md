@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.1.0] - 2022-11-03
+
+### Chore
+
+- Adding `lightGallery` instance variable
+- Destroy instance on `disconnect`
+- Using TypeScript types
+- Upgrading dependencies
+- Upgrading Node to `18`.
+
 ## [3.0.0] - 2021-12-27
 
 ### Chore
