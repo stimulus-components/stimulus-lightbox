@@ -12,7 +12,7 @@ A Stimulus controller to add a lightbox on images.
 
 ## 📚 Documentation
 
-See [stimulus-lightbox documentation](https://stimulus-components.netlify.app/docs/components/stimulus-lightbox/).
+See [stimulus-lightbox documentation](https://www.stimulus-components.com/docs/stimulus-lightbox/).
 
 ## 👷‍♂️ Contributing
 
