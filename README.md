@@ -1,22 +1,13 @@
 # Stimulus Lightbox
 
-[![](https://img.shields.io/npm/dt/stimulus-lightbox.svg)](https://www.npmjs.com/package/stimulus-lightbox)
-[![](https://img.shields.io/npm/v/stimulus-lightbox.svg)](https://www.npmjs.com/package/stimulus-lightbox)
-[![](https://github.com/stimulus-components/stimulus-lightbox/workflows/Lint/badge.svg)](https://github.com/stimulus-components/stimulus-lightbox)
-[![](https://img.shields.io/github/license/stimulus-components/stimulus-lightbox.svg)](https://github.com/stimulus-components/stimulus-lightbox)
+## 🚚 📦 This project has moved
 
-## Getting started
-
-A Stimulus controller to add a lightbox on images.
+This repository is now maintained in the main [Stimulus Components monorepo](https://github.com/stimulus-components/stimulus-components).
 
 ## 📚 Documentation
 
-See [stimulus-lightbox documentation](https://www.stimulus-components.com/docs/stimulus-lightbox/).
-
-## 👷‍♂️ Contributing
-
-Do not hesitate to contribute to the project by adapting or adding features ! Bug reports or pull requests are welcome.
+Visit the [stimulus-lightbox documentation](https://www.stimulus-components.com/docs/stimulus-lightbox/) for more information on how to use and integrate this controller.
 
 ## 📝 License
 
-This project is released under the [MIT](http://opensource.org/licenses/MIT) license.
+This project remains licensed under the [MIT](http://opensource.org/licenses/MIT) license.
